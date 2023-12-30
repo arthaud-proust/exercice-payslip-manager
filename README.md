@@ -1,10 +1,22 @@
-# kata-payslip-manager
+# exercice-payslip-manager
 
-## C'est quoi un Kata ?
+## On parle de quoi ?
 
-[Voir la définition d'un kata sur wikipédia](<https://fr.wikipedia.org/wiki/Kata_(programmation)>)
+Voici un gros exercice qui va vous faire toucher une grande partie des problématiques back-end, allant de la conception à l'hébergement.
 
-## Et celui là c'est à propos de quoi ?
+**La durée estimée est d'un ou deux mois**, si vous travaillez régulièrement. Plus encore si vous travaillez moins.
+Le cahier des charges demande une app sans grande complexité métier, cependant l'app est complète.
+
+Oui c'est beaucoup, mais c'est la vraie vie, les vraies problématiques.
+
+Cet exercice vous permettra :
+
+1. D'apprendre à concevoir et dev un projet de A à Z
+1. De prouver que vous savez faire
+1. De monter drastiquement sur des compétences de qualité et d'ingénieurie logicielle (car ici vous avez le temps de tester par exemple)
+1. De réfléchir à plusieurs sur la même problématique car c'est un cahier des charges public
+
+## Le contexte de l'exo
 
 Une société souhaite gérer ses fiches de paies pour ses salariés assez particuliers.  
 En effet, grâce à leur contrat, ces salariés ont la possibilité choisir quels jours ils travaillent !  
@@ -38,8 +50,24 @@ Pour l'instant nous n'avons pas d'exercice à vous proposer car nous n'y somme p
 
 ## On commence ?
 
-Voici les exercices selon votre niveau :
+Utilisez ce repo comme template ou clonez-le pour commencer.
+
+Voici les exercices par niveau :
 
 - [[nv.1] C'est tout nouveau](/doc/nv1/start.md)
 - [nv.2] Vous voulez mieux faire (à venir)
 - [nv.3] L'excellence vous attire (à venir)
+
+## Licence
+
+Le projet est open source, sous licence MIT (gratuit pour des projets personnels et commerciaux).
+
+## Contribuer
+
+Les niveaux sont trop durs ? Les exercices trops grands ?
+Vous avez besoin d'aide ?
+Vous voulez être mentor ?
+
+Vos retours, questionnements et améliorations sont les bienvenues.
+
+Pour cela, ouvrez des issues
