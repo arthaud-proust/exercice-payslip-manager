@@ -8,7 +8,7 @@ Les administrateurs ont besoin de se créer un compte pour gérer les salariés 
 Les salariés peuvent se créer un compte pour gérer leurs présences.  
 Chaque compte, qu'importe le rôle, a un tarif journalier.
 
-### Rôles
+### Rôles et permissions
 
 Deux rôles :
 
@@ -53,6 +53,10 @@ Par défaut, les jours ne sont pas marqués comme travaillés.
 Le dernier jour de chaque mois à 23h59 (fuseau Paris) un rapport JSON est généré.  
 Le rapport contient pour chaque employé ses jours travaillés du mois et son salaire.
 
+Il y a une page affichant la liste des rapports. Il peuvent être téléchargés.
+
+Un rapport du mois actuel peut être généré et téléchargé à la demande.
+
 ### Calcul du salaire
 
 Le salaire est calculé via la formule suivante :
@@ -77,3 +81,15 @@ salary = dailyPrice * nbWorkedDays
   ]
 }
 ```
+
+## Robustesse
+
+Comme la société est de grande taille, le site doit pouvoir gérer 10 000 salariés.
+
+Cela ne doit pas impacter les performances, les rapports doivent se générer en quelques secondes.
+
+## Hébergement
+
+Le site doit être totalement fonctionnel.
+Il doit donc être en ligne et les requêtes sécurisées par TLS.
+Il faut pouvoir envoyer des emails.
