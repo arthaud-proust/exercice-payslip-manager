@@ -27,14 +27,10 @@ Un salarié doit pouvoir gérer ses présences.
 
 ### Inscription et connexion
 
-Un utilisateur peut se créer un compte.
-
-Le rôle attribué à l'inscription est "salarié".
-
-Une authentification par email et mot de passe est suffisante.
-
-Une réinitialisation de mot de passe en cas d'oubli est nécessaire.
-
+Un utilisateur peut se créer un compte.  
+Le rôle attribué à l'inscription est "salarié".  
+Une authentification par email et mot de passe est suffisante.  
+Une réinitialisation de mot de passe en cas d'oubli est nécessaire.  
 Pas besoin de validation d'email.
 
 ### Compte par défaut
