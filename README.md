@@ -30,7 +30,7 @@ Elle a donc contacté votre entreprise pour cela.
 
 Vous êtes arrivé fraîchement dans le monde du dev back-end et un mentor vous propose de vous accompagner sur ce premier développement.
 
-Vous pouvez partir sur des languages selon votre mentor.
+Vous pouvez partir sur des langages selon votre mentor.
 
 - Mentor Arthaud : vous pouvez partir sur du PHP ou du JS. Si framework : Laravel (PHP) ou Adonis (JS).
 
@@ -41,7 +41,7 @@ Vous avez peut-être accumulé de la dette technique, implémenter de nouvelles 
 
 Vous avez envie d'apprendre à bien faire les choses, les notions de Clean Architecture et de Clean Code vous intéressent. Vous voulez être sûr que votre code fonctionne.
 
-Vous pouvez partir sur le language et les technos (si besoin) que vous souhaitez.
+Vous pouvez partir sur le langage et les technos (si besoin) que vous souhaitez.
 
 ### [nv.3] L'excellence vous intrigue
 
