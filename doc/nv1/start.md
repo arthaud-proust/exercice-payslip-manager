@@ -6,4 +6,4 @@ Ce niveau 1 est proposé aux "C'est tout nouveau", [regardez le README.md](/READ
 
 ## Cahier des charges
 
-[Voir le cahier des charges](/doc/ctn/specifications.md)
+[Voir le cahier des charges](/doc/nv1/specifications.md)
